@@ -4,8 +4,8 @@
 
 ### Current Participants
 
-<img src="https://www.codewars.com/users/ExVacuum/badges/small"/>
-<img src="https://www.codewars.com/users/DaniilKi/badges/small"/>
+Silas <img src="https://www.codewars.com/users/ExVacuum/badges/micro"/>
+Daniil <img src="https://www.codewars.com/users/DaniilKi/badges/micro"/>
 
 ### Completed Challenges
 

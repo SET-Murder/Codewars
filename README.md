@@ -20,6 +20,6 @@ Icon        | Status
 #### C++
 
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/cpp) - kyu 6
-    - Silas
-      - [Solution 1](/cpp/SpinWords/SpinWords-Silas-Attempt1/SpinWords.cpp) :shit:
-      - [Solution 2](/cpp/SpinWords/SpinWords-Silas-Attempt2/SpinWords.cpp) :fire:
+  - Silas
+    - [Solution 1](/cpp/SpinWords/SpinWords-Silas-Attempt1/SpinWords.cpp) :shit:
+    - [Solution 2](/cpp/SpinWords/SpinWords-Silas-Attempt2/SpinWords.cpp) :fire:

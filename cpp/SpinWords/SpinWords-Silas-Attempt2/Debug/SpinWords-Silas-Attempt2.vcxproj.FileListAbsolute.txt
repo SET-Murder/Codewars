@@ -1,0 +1,2 @@
+D:\Projects\In Progress\the-murder\codewars\cpp\SpinWords-Silas-Attempt2\Debug\SpinWords-Silas-Attempt2.exe
+D:\Projects\In Progress\the-murder\codewars\cpp\SpinWords-Silas-Attempt2\Debug\SpinWords-Silas-Attempt2.pdb

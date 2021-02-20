@@ -9,7 +9,7 @@
 
 ### Completed Challenges
 
-#### Legend:
+Legend:
 
 Icon        | Status
 ------------| -------------
@@ -17,7 +17,9 @@ Icon        | Status
 :fire:      | Cool Solution
 :trollface: | Chaos
 
-- [Stop gninnipS My sdroW!]() - kyu 6
+#### C++
+
+- [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/cpp) - kyu 6
     - Silas
       - [Solution 1](cpp\SpinWords\SpinWords-Silas-Attempt1\SpinWords.cpp) :shit:
       - [Solution 2](cpp\SpinWords\SpinWords-Silas-Attempt2\SpinWords.cpp) :fire:

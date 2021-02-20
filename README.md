@@ -2,9 +2,7 @@
 
 ## Collaborative Codewars Solutions
 
-Total Honor: 16
-
-## Current Participants
+### Current Participants
 
 <img src="https://www.codewars.com/users/ExVacuum/badges/small"/>
 <br>

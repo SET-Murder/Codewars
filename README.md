@@ -24,3 +24,6 @@ Icon        | Status
   - Silas
     - [Solution 1](/cpp/SpinWords/SpinWords-Silas-Attempt1/SpinWords.cpp) :shit:
     - [Solution 2](/cpp/SpinWords/SpinWords-Silas-Attempt2/SpinWords.cpp) :fire:
+- [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp) - kyu 6
+  - Silas
+    - [Solution 1](/cpp/CreatePhoneNumber/CreatePhoneNumber-Silas-Attempt1/CreatePhoneNumber.cpp)

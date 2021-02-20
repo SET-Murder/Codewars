@@ -1,0 +1,3 @@
+﻿  SpinWords.cpp
+D:\Projects\In Progress\the-murder\codewars\cpp\SpinWords-Silas-Attempt2\SpinWords.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SpinWords-Silas-Attempt2.vcxproj -> D:\Projects\In Progress\the-murder\codewars\cpp\SpinWords-Silas-Attempt2\Debug\SpinWords-Silas-Attempt2.exe

@@ -1,0 +1,3 @@
+﻿  CreatePhoneNumber.cpp
+D:\Projects\In Progress\the-murder\codewars\cpp\CreatePhoneNumber\CreatePhoneNumber-Silas-Attempt1\CreatePhoneNumber.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CreatePhoneNumber-Silas-Attempt1.vcxproj -> D:\Projects\In Progress\the-murder\codewars\cpp\CreatePhoneNumber\CreatePhoneNumber-Silas-Attempt1\Debug\CreatePhoneNumber-Silas-Attempt1.exe

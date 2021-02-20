@@ -1,0 +1,2 @@
+D:\Projects\In Progress\the-murder\codewars\cpp\CreatePhoneNumber\CreatePhoneNumber-Silas-Attempt1\Debug\CreatePhoneNumber-Silas-Attempt1.exe
+D:\Projects\In Progress\the-murder\codewars\cpp\CreatePhoneNumber\CreatePhoneNumber-Silas-Attempt1\Debug\CreatePhoneNumber-Silas-Attempt1.pdb

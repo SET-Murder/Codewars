@@ -29,4 +29,4 @@ Icon        | Status
     - [Solution 1](/cpp/CreatePhoneNumber/CreatePhoneNumber-Silas-Attempt1/CreatePhoneNumber.cpp)
 - [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/cpp) - kyu 6
   - Silas
-    - [Solution 1](/cpp/CreatePhoneNumber/CreatePhoneNumber-Silas-Attempt1/CreatePhoneNumber.cpp)
+    - [Solution 1](/cpp/CountSmileys/CountSmileys-Silas-Attempt1/CountSmileys.cpp)

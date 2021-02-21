@@ -1,0 +1,3 @@
+﻿  CountSmileys.cpp
+D:\Projects\In Progress\the-murder\codewars\cpp\CountSmileys\CountSmileys-Silas-Attempt1\CountSmileys.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CountSmileys-Silas-Attempt1.vcxproj -> D:\Projects\In Progress\the-murder\codewars\cpp\CountSmileys\CountSmileys-Silas-Attempt1\Debug\CountSmileys-Silas-Attempt1.exe

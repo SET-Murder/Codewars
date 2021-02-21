@@ -27,3 +27,6 @@ Icon        | Status
 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp) - kyu 6
   - Silas
     - [Solution 1](/cpp/CreatePhoneNumber/CreatePhoneNumber-Silas-Attempt1/CreatePhoneNumber.cpp)
+- [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/cpp) - kyu 6
+  - Silas
+    - [Solution 1](/cpp/CreatePhoneNumber/CreatePhoneNumber-Silas-Attempt1/CreatePhoneNumber.cpp)

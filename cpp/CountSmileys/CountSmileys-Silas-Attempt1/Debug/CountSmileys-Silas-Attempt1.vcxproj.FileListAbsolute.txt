@@ -1,0 +1,2 @@
+D:\Projects\In Progress\the-murder\codewars\cpp\CountSmileys\CountSmileys-Silas-Attempt1\Debug\CountSmileys-Silas-Attempt1.exe
+D:\Projects\In Progress\the-murder\codewars\cpp\CountSmileys\CountSmileys-Silas-Attempt1\Debug\CountSmileys-Silas-Attempt1.pdb
